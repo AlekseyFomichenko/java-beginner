@@ -7,7 +7,7 @@ import java.util.Scanner;
 /**
  * Main
  */
-public class Main {
+public class Seminar5 {
 
     public static void main(String[] args) {
         int key;
